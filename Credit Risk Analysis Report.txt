@@ -54,4 +54,3 @@ This analysis allowed:
 
 ---
 
-¿Querés que esto lo deje también en un `.docx` o `.pdf` para que lo descargues directamente?
