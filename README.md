@@ -1,4 +1,4 @@
-##Welcome!
+Welcome!
 
 This project was carried out in an academic setting as part of the coursework for the Business Analytics degree program at UCEMA (Buenos Aires).
 
